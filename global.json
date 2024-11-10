@@ -2,6 +2,7 @@
   "sdk": {
     "version": "7.0.0",
     "rollForward": "latestMinor",
-    "allowPrerelease": false
+    "allowPrerelease": false,
+    "DbConnectionString" : "Server=localhost;Database=FootballLeagueDb;Trusted_Connection=True"
   }
 }

@@ -1,0 +1,12 @@
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Domain/bin/Debug/net7.0/EntityFrameworkCore.Domain.deps.json
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Domain/bin/Debug/net7.0/EntityFrameworkCore.Domain.dll
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Domain/bin/Debug/net7.0/EntityFrameworkCore.Domain.pdb
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Domain/obj/Debug/net7.0/EntityFrameworkCore.Domain.csproj.AssemblyReference.cache
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Domain/obj/Debug/net7.0/EntityFrameworkCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Domain/obj/Debug/net7.0/EntityFrameworkCore.Domain.AssemblyInfoInputs.cache
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Domain/obj/Debug/net7.0/EntityFrameworkCore.Domain.AssemblyInfo.cs
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Domain/obj/Debug/net7.0/EntityFrameworkCore.Domain.csproj.CoreCompileInputs.cache
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Domain/obj/Debug/net7.0/EntityFrameworkCore.Domain.dll
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Domain/obj/Debug/net7.0/refint/EntityFrameworkCore.Domain.dll
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Domain/obj/Debug/net7.0/EntityFrameworkCore.Domain.pdb
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Domain/obj/Debug/net7.0/ref/EntityFrameworkCore.Domain.dll

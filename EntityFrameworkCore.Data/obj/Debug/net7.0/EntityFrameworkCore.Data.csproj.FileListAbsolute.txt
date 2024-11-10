@@ -1,0 +1,17 @@
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Data/bin/Debug/net7.0/EntityFrameworkCore.Data.deps.json
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Data/bin/Debug/net7.0/EntityFrameworkCore.Data.runtimeconfig.json
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Data/bin/Debug/net7.0/EntityFrameworkCore.Data.dll
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Data/bin/Debug/net7.0/EntityFrameworkCore.Data.pdb
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Data/bin/Debug/net7.0/EntityFrameworkCore.Domain.dll
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Data/bin/Debug/net7.0/EntityFrameworkCore.Domain.pdb
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Data/obj/Debug/net7.0/EntityFrameworkCore.Data.csproj.AssemblyReference.cache
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Data/obj/Debug/net7.0/EntityFrameworkCore.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Data/obj/Debug/net7.0/EntityFrameworkCore.Data.AssemblyInfoInputs.cache
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Data/obj/Debug/net7.0/EntityFrameworkCore.Data.AssemblyInfo.cs
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Data/obj/Debug/net7.0/EntityFrameworkCore.Data.csproj.CoreCompileInputs.cache
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Data/obj/Debug/net7.0/EntityFrameworkCore.Data.csproj.CopyComplete
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Data/obj/Debug/net7.0/EntityFrameworkCore.Data.dll
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Data/obj/Debug/net7.0/refint/EntityFrameworkCore.Data.dll
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Data/obj/Debug/net7.0/EntityFrameworkCore.Data.pdb
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Data/obj/Debug/net7.0/EntityFrameworkCore.Data.genruntimeconfig.cache
+/Users/anthonyvillegas/RiderProjects/EntityFrameworkCore/EntityFrameworkCore.Data/obj/Debug/net7.0/ref/EntityFrameworkCore.Data.dll

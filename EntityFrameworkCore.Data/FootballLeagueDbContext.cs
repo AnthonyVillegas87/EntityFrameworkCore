@@ -7,7 +7,7 @@ public class FootballLeagueDbContext : DbContext
 {
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB; Initial Catalog=FootballLeagueDb");
+        optionsBuilder.UseSqlServer("Data Source=localhost\\SqlServerInstance,1433;Initial Catalog=FootballLeagueDb;Integrated Security=false;;TrustServerCertificate=True;");
     }
 
     public DbSet<Team> Teams { get; set; }
